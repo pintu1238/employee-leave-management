@@ -7,7 +7,7 @@ A MERN-style employee management application with separate frontend and backend 
 - `backend/` - Node.js + Express backend
 - `frontend/` - React + Vite frontend
 
-> **Tech stack:** PostgreSQL · Node.js · Express.js · JWT · bcryptjs · React · TailwindCSS
+> **Tech stack:** PostgreSQL · Node.js · Express.js · JWT · bcryptjs · React . TailwindCSS
 
 ---
 
